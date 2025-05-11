@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ianfedev@gmail.com**
 
-- ⚡ Fun fact **I'm always open to help even if I don't have time... Just call my attention**
+- ⚡ You can check some of the project I've contributed on my related organizations
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
